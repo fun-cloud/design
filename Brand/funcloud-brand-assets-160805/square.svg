@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="square">
+            <g id="logo" transform="translate(7.000000, 8.000000)">
+                <g id="Logo" transform="translate(56.500000, 56.000000) rotate(-45.000000) translate(-56.500000, -56.000000) translate(17.000000, 17.000000)">
+                    <rect id="Rectangle" fill="#50E3C2" style="mix-blend-mode: multiply;" x="0.683375024" y="26.3461038" width="51.1712768" height="51.4951456"></rect>
+                    <rect id="Rectangle" fill="#54C7FC" style="mix-blend-mode: multiply;" x="26.8301887" y="5.68434189e-13" width="51.1712768" height="51.4951456"></rect>
+                    <rect id="Rectangle" fill="#E74C3C" style="mix-blend-mode: multiply;" x="13.4540421" y="13.4946097" width="51.1712768" height="51.4951456"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
